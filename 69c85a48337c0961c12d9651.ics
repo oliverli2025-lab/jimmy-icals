@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jimmy Icals//Property Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Warm stays near city center Decarie 203
+X-WR-CALDESC:Availability calendar for Warm stays near city center Decarie 203
+X-WR-TIMEZONE:America/Toronto
+END:VCALENDAR
