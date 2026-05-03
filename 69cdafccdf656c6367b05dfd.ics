@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jimmy Icals//Property Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St-Denis The Best of plateau/Unit 303
+X-WR-CALDESC:Availability calendar for St-Denis The Best of plateau/Unit 303
+X-WR-TIMEZONE:America/Toronto
+END:VCALENDAR
