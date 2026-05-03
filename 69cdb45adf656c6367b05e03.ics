@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jimmy Icals//Property Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Decarie 201 Family rental + Garage parking
+X-WR-CALDESC:Availability calendar for Decarie 201 Family rental + Garage parking
+X-WR-TIMEZONE:America/Toronto
+END:VCALENDAR
