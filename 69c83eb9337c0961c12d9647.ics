@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jimmy Icals//Property Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Montreal central rental Decarie 120
+X-WR-CALDESC:Availability calendar for Montreal central rental Decarie 120
+X-WR-TIMEZONE:America/Toronto
+END:VCALENDAR
