@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jimmy Icals//Property Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ST-DENIS 1BR Spacious Apt/Heart of MTL/Unit 301
+X-WR-CALDESC:Availability calendar for ST-DENIS 1BR Spacious Apt/Heart of MTL/Unit 301
+X-WR-TIMEZONE:America/Toronto
+END:VCALENDAR
