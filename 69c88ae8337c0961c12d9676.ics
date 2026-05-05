@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cozy stays near city center Metro St-Denis 400
-X-WR-CALDESC:Availability calendar for Cozy stays near city center Metro St-Denis 400
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Cheikh Gueye
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260812
+END:VEVENT
 END:VCALENDAR

@@ -1,9 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:St-Denis 403 entire apartment au coeur de Montreal
-X-WR-CALDESC:Availability calendar for St-Denis 403 entire apartment au coeur de Montreal
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Darren Dickenson
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylla Alhousseni
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260827
+END:VEVENT
 END:VCALENDAR

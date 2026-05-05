@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:St denis1BR Executive Apt/St-denis/Unit208
-X-WR-CALDESC:Availability calendar for St denis1BR Executive Apt/St-denis/Unit208
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Trudi Gilday
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260801
+END:VEVENT
 END:VCALENDAR
