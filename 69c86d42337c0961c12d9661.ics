@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Decarie 407  Sunny 1 bedroom entire apartment
-X-WR-CALDESC:Availability calendar for Decarie 407  Sunny 1 bedroom entire apartment
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Lucian Vlaicu
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270728
+END:VEVENT
 END:VCALENDAR

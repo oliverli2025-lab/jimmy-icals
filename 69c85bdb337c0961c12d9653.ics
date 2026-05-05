@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cozy satys near city center Decarie 208 Entire 1 bedroom
-X-WR-CALDESC:Availability calendar for Cozy satys near city center Decarie 208 Entire 1 bedroom
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Dev Rishi Chooramun
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260621
+END:VEVENT
 END:VCALENDAR

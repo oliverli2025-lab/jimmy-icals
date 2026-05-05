@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Warmly satys Decarie 408 Central 1 bedroom apartment
-X-WR-CALDESC:Availability calendar for Warmly satys Decarie 408 Central 1 bedroom apartment
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Omar Mbengue
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260504
+END:VEVENT
 END:VCALENDAR

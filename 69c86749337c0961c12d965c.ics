@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Decarie 306 Entire 1 bedroom apartment MTL
-X-WR-CALDESC:Availability calendar for Decarie 306 Entire 1 bedroom apartment MTL
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Booking #5769359064
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+END:VEVENT
 END:VCALENDAR

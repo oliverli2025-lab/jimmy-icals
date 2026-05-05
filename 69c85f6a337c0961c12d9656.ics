@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cozy warm near the Metro Decarie 310
-X-WR-CALDESC:Availability calendar for Cozy warm near the Metro Decarie 310
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Sivasamy Pratha
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260518
+END:VEVENT
 END:VCALENDAR

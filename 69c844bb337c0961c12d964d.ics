@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Decarie 108 1 bedroom rental in central location
-X-WR-CALDESC:Availability calendar for Decarie 108 1 bedroom rental in central location
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:Booking #6310080830
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+END:VEVENT
 END:VCALENDAR
