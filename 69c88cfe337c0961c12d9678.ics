@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:St-Denis 407 entire apartment au coeur de montreal
-X-WR-CALDESC:Availability calendar for St-Denis 407 entire apartment au coeur de montreal
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:David Nancekivell (2)
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260526
+END:VEVENT
 END:VCALENDAR

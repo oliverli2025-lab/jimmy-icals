@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:ST-DENIS Bright Studio in Plateau/St-denis 406
-X-WR-CALDESC:Availability calendar for ST-DENIS Bright Studio in Plateau/St-denis 406
-X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:David Nancekivell (1)
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260526
+END:VEVENT
 END:VCALENDAR

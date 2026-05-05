@@ -3,13 +3,9 @@ VERSION:2.0
 PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cozy stays St-Denis 408 Apt at heart of Montreal
-X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
+SUMMARY:miguel Atan
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260525
-UID:booking-miguel-atan-may-21-25
-SUMMARY:Blocked: Miguel Atan (Booking.com)
-STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
