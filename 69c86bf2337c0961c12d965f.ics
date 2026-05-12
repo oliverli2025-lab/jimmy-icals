@@ -1,9 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Warm satys Decarie 404 Central location - Montreal
-X-WR-CALDESC:Availability calendar for Warm satys Decarie 404 Central location - Montreal
+X-WR-CALNAME:Calendar for Décarie 404
 X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260718
+UID:bid-6369209461-20260715
+SUMMARY:Blocked: Emma Mini Hane (Other)
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
