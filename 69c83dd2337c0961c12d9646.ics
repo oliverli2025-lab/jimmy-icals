@@ -1,9 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jimmy Icals//Property Calendar//EN
+PRODID:-//Jimmy//Channel Manager//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cozy stays Decarie 104
-X-WR-CALDESC:Availability calendar for Cozy stays Decarie 104
+X-WR-CALNAME:Calendar for Décarie 104
 X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260518
+UID:bid--20260515
+SUMMARY:Blocked: Gustavo Mastrangelo (Other)
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
